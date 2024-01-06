@@ -33,6 +33,6 @@
 
    <h1> Thank You </h1>
    <br>
-   <h1> This was a wonderful lenthy project</h1>
+   <h1> This was a wonderful lenthy project . </h1>
     
 </form>
